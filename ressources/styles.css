@@ -1,6 +1,51 @@
 /* Importing Google font - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
+  .section3{
+    background-color:#fff;
+    height: 400px;
+    position: relative ;bottom: 41px;
+  }
+
+  .sectiondiv{
+    display: flex;
+  
+  }
+  #titre{
+  color: rgb(236, 35, 72);
+}
+  #tle{
+  color: rgb(228, 14, 46);
+  text-align: center;
+  position: relative;top: 30px; 
+  font-weight: lighter;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  
+}
+.p{
+  position: relative;margin-top: auto;
+
+}
+   .bloc{
+  margin-top: 80px;
+    text-align: center;
+}
+
+.titre{
+    position:absolute;
+    width: 40%;
+}
+
+#img1{
+    width: 100px;
+    height: auto;
+    border-radius:20px;
+    float: left;
+    position: relative;left:20px;
+
+   }
+#----------------------------------------------------------------
 * {
   margin: 0;
   padding: 0;
@@ -136,7 +181,7 @@ header .navbar {
       text-align: center;
       color :#DC4657;
       margin-top:50px;
-      font-family: ;
+     
 
 
   }
